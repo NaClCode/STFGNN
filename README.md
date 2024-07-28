@@ -1,8 +1,8 @@
 # AAAI-2021 Spatial-Temporal Fusion Graph Neural Networks for Traffic Flow Forecasting Pytorch 版本
 
 <p align="center">
-  <h3>原仓库:<a href='https://github.com/MengzhangLI/STFGNN'>STSGCN</a></h3>
-  <h3>本代码为pytorch 实现，运行方法与原来基本一致</h3>
+  <h2>原仓库:<a href='https://github.com/MengzhangLI/STFGNN'>STSGCN</a></h3>
+  <h2>本代码为pytorch 实现，运行方法与原来基本一致</h3>
 </p>
 
 <p align="center">
